@@ -74,6 +74,7 @@ def get_pass_strength(password):
 
     return strength
 
+
 if __name__ == "__main__":
     DEBUG = False
     print "Verifying password 'MyMilkshake3':"
